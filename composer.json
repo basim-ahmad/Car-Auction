@@ -1,18 +1,18 @@
 {
-    "name": "natainditama/auctionx",
+    "name": "basim/carauction",
     "description": "Online vehicle auctions built with PHP MVC",
     "type": "project",
     "license": "MIT",
-    "homepage": "https://auctionx-app.000webhostapp.com/",
+    "homepage": "https://basim-ahmad.github.io/Car-Auction/",
     "autoload": {
         "psr-4": {
-            "NataInditama\\Auctionx\\": "src/"
+            "Basim\\Car Auction\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "natainditama",
-            "email": "natainditama.dev@gmail.com"
+            "name": "basim",
+            "email": "basimahmed969@gmail.com"
         }
     ],
     "require": {}
