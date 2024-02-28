@@ -1,6 +1,6 @@
 <?php
 
-use Basim\Car-Auction\App\Auth;
+use basim-ahmad\Car-Auction\App\Auth;
 
 $auth = $model['auth'] ?? Auth::getSession();
 ?>
