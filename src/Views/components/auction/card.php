@@ -1,6 +1,6 @@
 <?php
 
-use NataInditama\Auctionx\Models\HistoryLelang;
+use basim-ahmad\Car-Auction\Models\HistoryLelang;
 
  foreach ($model['products'] as $key => $row) : ?>
   <?php
