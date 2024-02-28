@@ -1,6 +1,6 @@
 <?php
 
-use NataInditama\Auctionx\App\Auth;
+use Basim\car-Auction\App\Auth;
 
 $auth = $model['auth'] ?? Auth::getSession();
 ?>
