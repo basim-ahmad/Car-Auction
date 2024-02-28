@@ -16,7 +16,7 @@ if (Auth::getSession()) : ?>
           <a class="text-light" href="./">Home</a>
           <a class="text-light" href="./">About</a>
           <a class="text-light" href="./">News</a>
-          <a class="text-light" target="_blank" href="http://github.com/natainditama/auctionx">Contact</a>
+          <a class="text-light" target="_blank" href="http://google.com">Contact</a>
         </div>
         <div class="ftco-footer-social p-0">
           <li class="ftco-animate"><a href="#" class="border text-white" data-toggle="tooltip" data-placement="top" title="Twitter"><i data-feather="twitter" class="icon-xs"></i></a></li>
