@@ -4,38 +4,7 @@
   <p>
     Efficient online vehicle auctions built with PHP MVC
   </p>
-
-<!-- Badges -->
-<p>
-  <a href="https://github.com/natainditama/auctionx/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/natainditama/auctionx" alt="contributors" />
-  </a>
-  <a href="https://github.com/natainditama/auctionx">
-    <img src="https://img.shields.io/github/last-commit/natainditama/auctionx" alt="last update" />
-  </a>
-  <a href="https://github.com/natainditama/auctionx/network/members">
-    <img src="https://img.shields.io/github/forks/natainditama/auctionx" alt="forks" />
-  </a>
-  <a href="https://github.com/natainditama/auctionx/stargazers">
-    <img src="https://img.shields.io/github/stars/natainditama/auctionx" alt="stars" />
-  </a>
-  <a href="https://github.com/natainditama/auctionx/issues/">
-    <img src="https://img.shields.io/github/issues/natainditama/auctionx" alt="open issues" />
-  </a>
-  <a href="https://github.com/natainditama/auctionx/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/natainditama/auctionx.svg" alt="license" />
-  </a>
-</p>
    
-<h4>
-    <a href="https://github.com/natainditama/auctionx/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/natainditama/auctionx">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/natainditama/auctionx/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/natainditama/auctionx/issues/">Request Feature</a>
-  </h4>
 </div>
 
 <br />  
@@ -124,42 +93,4 @@ Start the php server
 
 Open http://localhost:5000/public in your web browser
 
-<!-- Contributing -->
-## 👋 Contributing
 
-<a href="https://github.com/natainditama/auctionx/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=natainditama/auctionx" />
-</a><br/>
-
-Contributions are always welcome!
-
-See [contributing.md](https://github.com/natainditama/auctionx/blob/main/.github/CONTRIBUTING.md) for ways to get started.
-
-<!-- Acknowledgments -->
-## 🙏 Acknowledgements
-
-Special thanks to contributors for their valuable contributions to this project:
-
-- Image placeholders by [Imagin](https://www.imagin.studio/)
-- Admin template by [Dashui](https://dashui.codescandy.com/)
-
-<!-- Code of Conduct -->
-### 📜 Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/natainditama/auctionx/blob/main/.github/CODE_OF_CONDUCT.md)
-
-<!-- License -->
-## ⚠️ License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/natainditama/auctionx/blob/main/LICENSE) file for details
-
-<!-- Contact -->
-## 🤝 Contact
-
-Contact me for inquiries, suggestions, or contributions via the following channels:
-
-- [Email](mailto:natainditama.dev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/natainditama)
-- [GitHub](https://github.com/natainditama)
-
-Thank you for your support, interest, feedback, and contributions!
